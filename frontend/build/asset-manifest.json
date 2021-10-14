@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1b57c95.chunk.css",
+    "main.js": "/static/js/main.edfe8a77.chunk.js",
+    "main.js.map": "/static/js/main.edfe8a77.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.285e30f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.285e30f9.js.map",
+    "static/js/2.465745fa.chunk.js": "/static/js/2.465745fa.chunk.js",
+    "static/js/2.465745fa.chunk.js.map": "/static/js/2.465745fa.chunk.js.map",
+    "static/js/3.d387d9e1.chunk.js": "/static/js/3.d387d9e1.chunk.js",
+    "static/js/3.d387d9e1.chunk.js.map": "/static/js/3.d387d9e1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f1b57c95.chunk.css.map": "/static/css/main.f1b57c95.chunk.css.map",
+    "static/js/2.465745fa.chunk.js.LICENSE.txt": "/static/js/2.465745fa.chunk.js.LICENSE.txt",
+    "static/media/Aircrafts.fd4458fb.png": "/static/media/Aircrafts.fd4458fb.png",
+    "static/media/Defence.a26f862e.png": "/static/media/Defence.a26f862e.png",
+    "static/media/Helicopter.1c5add08.png": "/static/media/Helicopter.1c5add08.png",
+    "static/media/a220.3fd97434.png": "/static/media/a220.3fd97434.png",
+    "static/media/a320.7c13017e.png": "/static/media/a320.7c13017e.png",
+    "static/media/a330.569599d9.png": "/static/media/a330.569599d9.png",
+    "static/media/a350.88442acc.png": "/static/media/a350.88442acc.png",
+    "static/media/a380.5b363b2a.png": "/static/media/a380.5b363b2a.png",
+    "static/media/logo_white.a5960144.svg": "/static/media/logo_white.a5960144.svg",
+    "static/media/space.140d521f.png": "/static/media/space.140d521f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.285e30f9.js",
+    "static/js/2.465745fa.chunk.js",
+    "static/css/main.f1b57c95.chunk.css",
+    "static/js/main.edfe8a77.chunk.js"
+  ]
+}
